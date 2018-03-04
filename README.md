@@ -6,6 +6,7 @@ Design an A.V.E.C ("Air + Vortex = Economiseur Carburant") for my 44 IDF carbs
 
 ![PimpMyIdf](https://github.com/coxifred/PimpMyIdf/blob/master/vortex_idf.png?raw=true)
 
+<a href=https://github.com/coxifred/PimpMyIdf/blob/master/vortex_idf.stl>Stl view here</a>
 
 **Use:**
 
