@@ -4,6 +4,9 @@ Design an A.V.E.C ("Air + Vortex = Economiseur Carburant") for my 44 IDF carbs
 
 ## Design a Vortex with openScad
 
+https://github.com/coxifred/PimpMyIdf/blob/master/vortex_idf.png?raw=true
+
+
 ```scad
 /*
 Module pour faire un vortex A.V.E.C
